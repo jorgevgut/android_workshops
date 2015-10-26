@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">practica1</string>
+    <string name="texto1_valor">Hola mundo</string>
+    <string name="texto2">Actividad de configuracion</string>
+</resources>
